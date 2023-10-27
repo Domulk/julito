@@ -89,8 +89,6 @@ acestream://e737c681a92a4328703761c6ed9d8a951655f3e4
 acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 17" tvg-logo="https://telegra.ph/file/e070f448f095ac6d66379.jpg" ,ML Campeones 17 SD  6029
 acestream://60296c246e3596f334903fefd48cfaa724a5053b
-#EXTINF:-1 group-title="Mis canales" tvg-id="OTROS" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,test  
-https://agendadeportiva.net/ch/?s=https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(ESPN)/master.mpd?p=web&key=382ff0152278d8ba946d4fd82a09b212&kid=e2701194a551d30b35a7d493937e50f1
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD" ,DAZN 1 1080  8ca0
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD" ,DAZN 1 720  eaff
