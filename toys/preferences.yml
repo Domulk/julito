@@ -18,6 +18,9 @@ nombres:
   key1a:
     name: "Dazn liga F"
     replace: "DAZN Liga F"
+  #key1b:
+    #name: "M. LaLiga 1080P"
+    #replace: "LaLiga BAR 1080"
   key2:
     name: "Dazn liga f"
     replace: "DAZN Liga F"
@@ -103,12 +106,12 @@ canales:
     logo: https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5
     tvg_id: DAZN F1 HD
 
-  #canal3a:
-    #channel_name: LaLiga TV Bar 1080
-    #group_title: LaLiga
-    #logo: https://telegra.ph/file/92a3edd207bb0781e868b.jpg
+  canal3a:
+    channel_name: La Liga BAR 1080
+    group_title: LaLiga
+    logo: https://telegra.ph/file/92a3edd207bb0781e868b.jpg
     #logo: https://telegra.ph/file/1151a8da2345d862a41ed.jpg
-    #tvg_id: LaLiga TV BAR HD
+    tvg_id: LaLiga TV BAR HD
 
   canal3b:
     channel_name: M+ LaLiga 1440P
