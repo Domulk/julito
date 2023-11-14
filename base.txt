@@ -119,8 +119,8 @@ acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 1080  d002
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 720  e5fa
-acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 720  77d8
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png" ,M+ Deportes 2 1080  e6f0
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-3-2502.png" ,M+ Deportes 3 1080  aee0
