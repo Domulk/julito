@@ -6,11 +6,12 @@ group_title_order:
 epgs:
   '#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml,
   https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml,
-  https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml,
   https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml,
   https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml,
-  https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml"
+  https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml,
+  https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml"
   '
+#  https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml,
 
 
 
@@ -83,157 +84,157 @@ canales:
   canal66b:
     channel_name: DAZN F1 UHD
     group_title: DAZN F1
-    logo: https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MF1UHD
     tvg_id: DAZN F1 HD
   canal66c:
     channel_name: DAZN F1 UHD ep
     group_title: DAZN F1
-    logo: https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MF1UHD
     tvg_id: DAZN F1 HD
   canal66:
     channel_name: DAZN F1 1080
     group_title: DAZN F1
-    logo: https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1
     tvg_id: DAZN F1 HD
   canal68:
     channel_name: DAZN F1 720
     group_title: DAZN F1
-    logo: https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1
     tvg_id: DAZN F1 HD
   canal68a:
     channel_name: DAZN F1 Multicámara
     group_title: DAZN F1
-    logo: https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1
     tvg_id: DAZN F1 HD
 
   canal3a:
     channel_name: La Liga BAR 1080
     group_title: LaLiga
-    logo: https://telegra.ph/file/92a3edd207bb0781e868b.jpg
+    logo: https://i.ibb.co/pLPmnGg/liga-TVbar.png
     #logo: https://telegra.ph/file/1151a8da2345d862a41ed.jpg
-    tvg_id: LaLiga TV BAR HD
+    tvg_id: LaLiga TV BAR
 
   canal3b:
     channel_name: M+ LaLiga 1440P
     group_title: LaLiga
-    logo: https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA
     tvg_id: M+ LaLiga TV HD
   canal3c:
     channel_name: M+ LaLiga UHD
     group_title: LaLiga
-    logo: https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGUH
     tvg_id: M+ LaLiga TV HD
   canal3d:
     channel_name: M+ LaLiga UHD ep
     group_title: LaLiga
-    logo: https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGUH
     tvg_id: M+ LaLiga TV HD
   canal3:
     channel_name: M+ LaLiga 1080P
     group_title: LaLiga
-    logo: https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA
     tvg_id: M+ LaLiga TV HD
   canal4:
     channel_name: M+ LaLiga 1080 MultiAudio
     group_title: LaLiga
-    logo: https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA
     tvg_id: M+ LaLiga TV HD
   canal6:
     channel_name: M+ LaLiga 720
     group_title: LaLiga
-    logo: https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIGA
     tvg_id: M+ LaLiga TV HD
   canal7:
     channel_name: M+ LaLiga 2 1080
     group_title: LaLiga
-    logo: https://telegra.ph/file/954f096c5f1cb382e50f7.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG1
     tvg_id: M+ LaLiga TV 2 HD
   canal8:
     channel_name: M+ LaLiga 2 720
     group_title: LaLiga
-    logo: https://telegra.ph/file/954f096c5f1cb382e50f7.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG1
     tvg_id: M+ LaLiga TV 2 HD
   canal9:
     channel_name: M+ LaLiga 3 1080
     group_title: LaLiga
-    logo: https://telegra.ph/file/d9a9b3f25fff3ffff3ab5.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG2
     tvg_id: M+ LaLiga TV 3 HD
   canal10:
     channel_name: M+ LaLiga 4 1080
     group_title: LaLiga
-    logo: https://telegra.ph/file/dbf9f93a95f2e1d732098.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG3
     tvg_id: M+ LaLiga TV 4
   canal11:
     channel_name: M+ LaLiga 5 1080
     group_title: LaLiga
-    logo: https://telegra.ph/file/2bf2e508d5e905203eae0.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG4
     tvg_id: M+ LaLiga TV 5
   canal12:
     channel_name: M+ LaLiga 6 1080
     group_title: LaLiga
-    logo: https://telegra.ph/file/1beb547ed9a6f41b3aabc.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG5
     tvg_id: M+ LaLiga TV 6
     
   canal13:
     channel_name: DAZN LaLiga 1080 MultiAudio
     group_title: LaLiga
-    logo: https://telegra.ph/file/083da39b90492923b30d4.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI
     tvg_id: DAZN LaLiga HD
   canal15:
     channel_name: DAZN LaLiga 720
     group_title: LaLiga
-    logo: https://telegra.ph/file/083da39b90492923b30d4.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNLI
     tvg_id: DAZN LaLiga HD
   canal16:
     channel_name: DAZN LaLiga 2 1080 MultiAudio
     group_title: LaLiga
-    logo: https://telegra.ph/file/94036fc98a0d900cc62a5.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL2
     tvg_id: DAZN LaLiga 2 HD
   canal17:
     channel_name: DAZN LaLiga 2 720 MultiAudio
     group_title: LaLiga
-    logo: https://telegra.ph/file/94036fc98a0d900cc62a5.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL2
     tvg_id: DAZN LaLiga 2 HD
   canal18:
     channel_name: DAZN LaLiga 3 1080 MultiAudio
     group_title: LaLiga
-    logo: https://telegra.ph/file/0693ac4e4edc2485672af.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL3
     tvg_id: DAZN LaLiga 3 HD
   canal19:
     channel_name: DAZN LaLiga 4 1080 MultiAudio
     group_title: LaLiga
-    logo: https://telegra.ph/file/58cbca971f554effdfba8.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL4
     tvg_id: DAZN LaLiga 4 HD
   canal20:
     channel_name: DAZN LaLiga 5 1080 MultiAudio
     group_title: LaLiga
-    logo: https://telegra.ph/file/be7e3f2a10da528ba5e38.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DAZNL5
     tvg_id: DAZN LaLiga 5 HD
 
   canal43:
     channel_name: ML Campeones 1080 MultiAudio
     group_title: M+ Champions
-    logo: https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAPIO
     tvg_id: M+ Liga de Campeones HD
   canal43b:
     channel_name: ML Campeones 1080P
     group_title: M+ Champions
-    logo: https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAPIO
     tvg_id: M+ Liga de Campeones HD
   canal44:
     channel_name: ML Campeones 720
     group_title: M+ Champions
-    logo: https://telegra.ph/file/b5075b2db3e21d0f5cb92.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAPIO
     tvg_id: M+ Liga de Campeones HD
   canal44a:
     channel_name: ML Campeones 2 1080
     group_title: M+ Champions
-    logo: https://telegra.ph/file/388cb7e9c2c35b3e2b2a3.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP1
     tvg_id: M+ Liga de Campeones 2 HD
   canal44b:
     channel_name: ML Campeones 2 720
     group_title: M+ Champions
-    logo: https://telegra.ph/file/388cb7e9c2c35b3e2b2a3.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP1
     tvg_id: M+ Liga de Campeones 2 HD
   canal45:
     channel_name: M+ Champions Tour 1080
@@ -248,62 +249,62 @@ canales:
   canal47:
     channel_name: ML Campeones 3 1080
     group_title: M+ Champions
-    logo: https://telegra.ph/file/e4c5995e20c06f7fd036f.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP2
     tvg_id: M+ Liga de Campeones 3 HD
   canal48:
     channel_name: ML Campeones 3 720
     group_title: M+ Champions
-    logo: https://telegra.ph/file/e4c5995e20c06f7fd036f.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP2
     tvg_id: M+ Liga de Campeones 3 HD
   canal49:
     channel_name: ML Campeones 4 1080
     group_title: M+ Champions
-    logo: https://telegra.ph/file/ed5ff4d4af1b41089bf63.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP3
     tvg_id: M+ Liga de Campeones 4
   canal50:
     channel_name: ML Campeones 5 1080
     group_title: M+ Champions
-    logo: https://telegra.ph/file/f70ec8ceea100f7cc16d3.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP4
     tvg_id: M+ Liga de Campeones 5
   canal51:
     channel_name: ML Campeones 6 1080
     group_title: M+ Champions
-    logo: https://telegra.ph/file/973fa621597f93bf3ada4.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP5
     tvg_id: M+ Liga de Campeones 6
   canal52:
     channel_name: ML Campeones 7 1080
     group_title: M+ Champions
-    logo: https://telegra.ph/file/0059fad5e9fb7248810ca.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP6
     tvg_id: M+ Liga de Campeones 7
   canal53:
     channel_name: ML Campeones 8 1080
     group_title: M+ Champions
-    logo: https://telegra.ph/file/e42c3be17719dec0dca80.jpg
+    logo: https://telegra.ph/file/f2331933708bc91db95f2.png
     tvg_id: M+ Liga de Campeones 8
   canal54:
     channel_name: ML Campeones 9 SD
     group_title: M+ Champions
-    logo: https://telegra.ph/file/cc889bcf3a3eabd469beb.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP8
     tvg_id: M+ Liga de Campeones 9
   canal55:
     channel_name: ML Campeones 10 SD
     group_title: M+ Champions
-    logo: https://telegra.ph/file/87e8ff06e728bac9eabb8.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP9
     tvg_id: M+ Liga de Campeones 10
   canal56:
     channel_name: ML Campeones 11 SD
     group_title: M+ Champions
-    logo: https://telegra.ph/file/26538ea7e7858cf653f05.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP10
     tvg_id: M+ Liga de Campeones 11
   canal57:
     channel_name: ML Campeones 12 SD
     group_title: M+ Champions
-    logo: https://telegra.ph/file/e070f448f095ac6d66379.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP11
     tvg_id: M+ Liga de Campeones 12
   canal57b:
     channel_name: ML Campeones 17 SD
     group_title: M+ Champions
-    logo: https://telegra.ph/file/e070f448f095ac6d66379.jpg
+    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAPIO
     tvg_id: M+ Liga de Campeones 17
 
   canal60:
@@ -339,95 +340,95 @@ canales:
   canal65a:
     channel_name: DAZN Liga F 1
     group_title: DAZN
-    logo: https://telegra.ph/file/88ed96a2e74f404784cce.png
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%201.png
     tvg_id: DAZN LaLiga Femenina 1
   canal65b:
     channel_name: DAZN Liga F 2
     group_title: DAZN
-    logo: https://telegra.ph/file/afdb26d76ca8cd6c83594.png
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%201.png
     tvg_id: DAZN LaLiga Femenina 2
   canal65c:
     channel_name: DAZN Liga F 3
     group_title: DAZN
-    logo: https://telegra.ph/file/ab593c68496f7ade0126c.png
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%201.png
     tvg_id: DAZN LaLiga Femenina 3
   canal65d:
     channel_name: DAZN Liga F 4
     group_title: DAZN
-    logo: https://telegra.ph/file/426648e524b5cacd6f28b.png
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20Femenina%201.png
     tvg_id: DAZN LaLiga Femenina 4
     
   canal105:
     channel_name: M Plus+ 1080
     group_title: M+ Deportes
-    logo: https://telegra.ph/file/9a0d68a169f207c184eca.png
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%20HD.png
     tvg_id: Movistar Plus+ HD  
   canal31:
     channel_name: '#Vamos 1080'
     group_title: M+ Deportes
-    logo: https://telegra.ph/file/119d11f705496fbac4439.png
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%20HD.png
     tvg_id: 'M+ Vamos HD'
   canal32:
     channel_name: '#Vamos 720'
     group_title: M+ Deportes
-    logo: https://telegra.ph/file/119d11f705496fbac4439.png
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%20HD.png
     tvg_id: 'M+ Vamos HD'
   canal33:
     channel_name: '#Ellas 1080'
     group_title: M+ Deportes
-    logo: https://telegra.ph/file/90d3f483ee3eabc124bbb.jpg
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas%20Vamos%20HD.png
     tvg_id: 'M+ Ellas Vamos HD'
   canal34:
     channel_name: M+ Deportes 1080
     group_title: M+ Deportes
-    logo: https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%20HD.png
     tvg_id: M+ Deportes HD
   canal35:
     channel_name: M+ Deportes 720
     group_title: M+ Deportes
-    logo: https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%20HD.png
     tvg_id: M+ Deportes HD
   canal36:
     channel_name: M+ Deportes 2 1080
     group_title: M+ Deportes
-    logo: https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202%20HD.png
     tvg_id: M+ Deportes 2 HD
   canal37:
     channel_name: M+ Deportes 3 1080
     group_title: M+ Deportes
-    logo: https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-3-2502.png
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png
     tvg_id: M+ Deportes 3
   canal38:
     channel_name: M+ Deportes 4 1080
     group_title: M+ Deportes
-    logo: https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png
     tvg_id: M+ Deportes 4
   canal39:
     channel_name: M+ Deportes 5 1080
     group_title: M+ Deportes
-    logo: https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png
     tvg_id: M+ Deportes 5
   canal40:
     channel_name: M+ Deportes 6 1080
     group_title: M+ Deportes
-    logo: https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png
     tvg_id: M+ Deportes 6
   canal41:
     channel_name: M+ Deportes 7 1080
     group_title: M+ Deportes
-    logo: https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%207.png
     tvg_id: M+ Deportes 7
     
   canal58:
     channel_name: M+ Golf 1080
     group_title: M+ Deportes
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOLF+
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%20HD.png
     #logo: https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png
     tvg_id: M+ Golf HD
   canal59:
     channel_name: M+ Golf 2 1080
     group_title: M+ Deportes
-    logo: https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GOLF2
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202%20HD.png
     tvg_id: M+ Golf 2 HD
     
   #canal59b:
@@ -439,52 +440,52 @@ canales:
   canal21:
     channel_name: LaLiga Hypermotion 1080
     group_title: M+ LaLiga Hypermotion
-    logo: https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png
     tvg_id: LaLiga TV Hypermotion HD
   canal22:
     channel_name: LaLiga Hypermotion 720
     group_title: M+ LaLiga Hypermotion
-    logo: https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png
     tvg_id: LaLiga TV Hypermotion HD
   canal23:
     channel_name: LaLiga Hypermotion 2 1080
     group_title: M+ LaLiga Hypermotion
-    logo: https://telegra.ph/file/7431c20a1684dd79bca18.jpg
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png
     tvg_id: LaLiga TV Hypermotion 2
   canal24:
     channel_name: LaLiga Hypermotion 2 720
     group_title: M+ LaLiga Hypermotion
-    logo: https://telegra.ph/file/7431c20a1684dd79bca18.jpg
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png
     tvg_id: LaLiga TV Hypermotion 2
   canal25:
     channel_name: LaLiga Hypermotion 3
     group_title: M+ LaLiga Hypermotion
-    logo: https://telegra.ph/file/0fa86d461144e95473650.jpg
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png
     tvg_id: LaLiga TV Hypermotion 3
   canal26:
     channel_name: LaLiga Hypermotion 4
     group_title: M+ LaLiga Hypermotion
-    logo: https://telegra.ph/file/c08926d02912610b761f3.jpg
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%204.png
     tvg_id: LaLiga TV Hypermotion 4
   canal27:
     channel_name: LaLiga Hypermotion 5
     group_title: M+ LaLiga Hypermotion
-    logo: https://telegra.ph/file/99ff7636249cc9bbb571c.jpg
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png
     tvg_id: LaLiga TV Hypermotion 5
   canal28:
     channel_name: LaLiga Hypermotion 6
     group_title: M+ LaLiga Hypermotion
-    logo: https://telegra.ph/file/118c474d14a90afb8cf93.jpg
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png
     tvg_id: LaLiga TV Hypermotion 6
   canal29:
     channel_name: LaLiga Hypermotion 7
     group_title: M+ LaLiga Hypermotion
-    logo: https://telegra.ph/file/f0b33dd7f388f97420e64.jpg
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png
     tvg_id: LaLiga TV Hypermotion 7
   canal30:
     channel_name: LaLiga Hypermotion 8
     group_title: M+ LaLiga Hypermotion
-    logo: https://telegra.ph/file/8e26023b62fc2d437c4cd.jpg
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%205.png
     tvg_id: LaLiga TV Hypermotion 8
     
 
@@ -496,94 +497,102 @@ canales:
   canal110:
     channel_name: ESPN US
     group_title: Otros deportes
-    logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
+    logo: https://telegra.ph/file/c96c897856acfd7ed5671.png
     tvg_id: ESPN.us
   canal111:
     channel_name: ESPN 2 US
     group_title: Otros deportes
-    logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
+    logo: https://telegra.ph/file/c96c897856acfd7ed5671.png
     tvg_id: ESPN2.us
   canal112:
     channel_name: FOX Sports 1 US
     group_title: Otros deportes
-    logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
+    logo: https://telegra.ph/file/c96c897856acfd7ed5671.png
     tvg_id: FoxSports1.us
   canal113:
     channel_name: FOX Sports 2 US
     group_title: Otros deportes
-    logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
+    logo: https://telegra.ph/file/c96c897856acfd7ed5671.png
     tvg_id: FoxSports2.us
     
   canal93:
     channel_name: TNT Sports 1 UK
     group_title: British
-    logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
-    tvg_id: BTSport1.uk
+    logo: https://telegra.ph/file/c96c897856acfd7ed5671.png
+    #tvg_id: BTSport1.uk
     #tvg_id: I1207.82450.schedulesdirect.org
+    tvg_id: TNT Sports 1 HD
   canal94:
     channel_name: TNT Sports 2 UK
     group_title: British
-    logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
-    tvg_id: BTSport2.uk
+    logo: https://telegra.ph/file/c96c897856acfd7ed5671.png
+    #tvg_id: BTSport2.uk
     #tvg_id: I1213.82451.schedulesdirect.org
+    tvg_id: TNT Sports 2 HD
   canal95:
     channel_name: TNT Sports 3 UK
     group_title: British
-    logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
-    tvg_id: BTSport3.uk
+    logo: https://telegra.ph/file/c96c897856acfd7ed5671.png
+    #tvg_id: BTSport3.uk
+    tvg_id: TNT Sports 3 HD
   canal96:
     channel_name: TNT Sports 4 UK
     group_title: British
-    logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
-    tvg_id: BTSport4.uk
+    logo: https://telegra.ph/file/c96c897856acfd7ed5671.png
+    #tvg_id: BTSport4.uk
+    tvg_id: TNT Sports 4 HD
   canal91:
     channel_name: Sky Sports Main Event UK
     group_title: British
     logo: https://telegra.ph/file/f435538aa2919bbdf802c.jpg
     #tvg_id: I401.1229.tvguide.co.uk
-    tvg_id: SkySportsMainEvent.uk   
+    #tvg_id: SkySportsMainEvent.uk   
+    tvg_id: Sky Sports Main Event
   canal104:
     channel_name: Sky Sports Premier League UK
     group_title: British
-    logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
-    tvg_id: SkySportsPremierLeague.uk
+    logo: https://telegra.ph/file/c96c897856acfd7ed5671.png
+    #tvg_id: SkySportsPremierLeague.uk
+    tvg_id: Sky Sports Premier League
   canal97:
     channel_name: Sky Sports Arena UK
     group_title: British
-    logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
-    tvg_id: SkySportsArena.uk
+    logo: https://telegra.ph/file/c96c897856acfd7ed5671.png
+    #tvg_id: SkySportsArena.uk
+    tvg_id: Sky Sports Arena
   canal98:
     channel_name: Sky Sports Football UK
     group_title: British
-    logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
+    logo: https://telegra.ph/file/c96c897856acfd7ed5671.png
     #tvg_id: I403.2087.tvguide.co.uk
-    tvg_id: SkySportsFootball.uk
+    #tvg_id: SkySportsFootball.uk
+    tvg_id: Sky Sports Football
   canal99:
     channel_name: Sky Sports Plus UK
     group_title: British
-    logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
+    logo: https://telegra.ph/file/c96c897856acfd7ed5671.png
     tvg_id: SkySpPL.uk
   canal99b:
     channel_name: Sky Sports F1 DE
     group_title: British
-    logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
+    logo: https://telegra.ph/file/c96c897856acfd7ed5671.png
     tvg_id: SkySportF1Germany.de
   canal100:
     channel_name: Premier Sports 1 UK
     group_title: British
-    logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
+    logo: https://telegra.ph/file/c96c897856acfd7ed5671.png
     #tvg_id: I1292.79027.schedulesdirect.org
     tvg_id: PremierSports.uk
   canal101:
     channel_name: Premier Sports 2 UK
     group_title: British
-    logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
+    logo: https://telegra.ph/file/c96c897856acfd7ed5671.png
     #tvg_id: I1295.109162.schedulesdirect.org
     tvg_id: PremierSports2.uk
   canal102:
     channel_name: DAZN 1 DE
     group_title: Otros deportes
-    logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
+    logo: https://telegra.ph/file/c96c897856acfd7ed5671.png
     tvg_id: nil
   canal80b:
     channel_name: beIN Sports Xtra Ñ
@@ -593,12 +602,12 @@ canales:
   canal103:
     channel_name: Ziggo Sport Racing NL
     group_title: Otros deportes
-    logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
+    logo: https://telegra.ph/file/c96c897856acfd7ed5671.png
     tvg_id: ZiggoSportRacing.nl
   canal109:
     channel_name: Ziggo Sport Voetbal NL
     group_title: Otros deportes
-    logo: https://telegra.ph/file/d4d9a410917c5c13f9c5a.png
+    logo: https://telegra.ph/file/c96c897856acfd7ed5671.png
     tvg_id: ZiggoSportVoetbal.nl
       
   canal69:
@@ -665,12 +674,12 @@ canales:
   canal107:
     channel_name: Discovery
     group_title: electroperra
-    logo: https://telegra.ph/file/bf0dbd8e082efdd1b4523.png
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png
     tvg_id: Discovery
   canal108:
     channel_name: Odisea
     group_title: electroperra
-    logo: https://telegra.ph/file/3ee15bce44c6c32af8a85.png
+    logo: https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png
     tvg_id: Odisea
 
   canal1:
