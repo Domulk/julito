@@ -175,8 +175,6 @@ http://127.0.0.1:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
 http://127.0.0.1:6878/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91
 #EXTINF:-1 group-title="Otros deportes" tvg-id="ZiggoSportRacing.nl" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png" ,Ziggo Sport Racing NL  7780
 http://127.0.0.1:6878/ace/getstream?id=77800bb07c1d69135024ee2379c97472eb12dd45
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Tennis Channel US  756a
-http://127.0.0.1:6878/ace/getstream?id=756aa727f132136b43e1937affcc69cbe40fccad
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Copa 1080  8ba7
 http://127.0.0.1:6878/ace/getstream?id=8ba764f6a3bce6eae87ec71208fad1aa3a20528d
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,PPVP 2  d6cd
