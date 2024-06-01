@@ -219,8 +219,8 @@ plugin://script.module.horus?action=play&id=600222a4f98df80a2c0df2d60cb5ff3df962
 plugin://script.module.horus?action=play&id=162942adc047d0f78eac056effbe5bbec54a5e51
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,PPVP 4  e454
 plugin://script.module.horus?action=play&id=e454681a152a86da504e63694f17f90d0586867d
-#EXTINF:-1 group-title="Otros" tvg-id="La 1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVE" ,La1 UHD  6636
-plugin://script.module.horus?action=play&id=6636a5c1055b5913ddcd0e87a5523f7d935350af
+#EXTINF:-1 group-title="Otros" tvg-id="La 1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVE" ,La1 UHD  61a3
+plugin://script.module.horus?action=play&id=61a38b6c3b6c3fdffcb2f61053f3437e569eb666
 #EXTINF:-1 group-title="Otros" tvg-id="La 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/LA2" ,La2  6010
 plugin://script.module.horus?action=play&id=60106275d34f995e26bb2cc4a21a42f586c6c555
 #EXTINF:-1 group-title="Otros" tvg-id="Cuatro HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/C4" ,CUATRO 1080  e8ee
