@@ -175,6 +175,32 @@ plugin://script.module.horus?action=play&id=cba8d369eac629b577750edb90370cd1c5fb
 plugin://script.module.horus?action=play&id=95769f95c6af45e8ec46526c3be1104d0a0c7b91
 #EXTINF:-1 group-title="Otros deportes" tvg-id="ZiggoSportRacing.nl" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png" ,Ziggo Sport Racing NL  7780
 plugin://script.module.horus?action=play&id=77800bb07c1d69135024ee2379c97472eb12dd45
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Teledeporte" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TDEP" ,tdp 1080  e239
+plugin://script.module.horus?action=play&id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" ,Eurosport 1 1080  5e4c
+plugin://script.module.horus?action=play&id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg" ,Eurosport 2 1080  c373
+plugin://script.module.horus?action=play&id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Euro 4k  6313
+plugin://script.module.horus?action=play&id=63135c171f056d1d6028f9ffb1637ed704b88a20
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Euro1 1080P  f233
+plugin://script.module.horus?action=play&id=f233f3a8e9ddfae2e43d919789073fc17d9bbd7c
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Euro2 1080  3e0d
+plugin://script.module.horus?action=play&id=3e0df5e0e93cc867022e320afef0aaecda9509fe
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Euro3 1080  a62c
+plugin://script.module.horus?action=play&id=a62c010c71bfb76b18188f108c3cc4541c34f45e
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Euro4 1080  76a4
+plugin://script.module.horus?action=play&id=76a482a4cb53fc28518187c6b814f136b3db3c95
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Euro5 1080  914c
+plugin://script.module.horus?action=play&id=914ce366baec9b0fb3523dd7ba762a44b597fc40
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Euro6 1080  1bc6
+plugin://script.module.horus?action=play&id=1bc614c5aa2a94117c13c7f0be2b8ea31b535f38
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Euro7 1080  e899
+plugin://script.module.horus?action=play&id=e899a4f1e20f7ce1b39cc529dc237fc29a21855f
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Euro8 1080  721a
+plugin://script.module.horus?action=play&id=721a78f2076faa584c9c09059ffb4e10159f4665
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Euro9 1080  dd9c
+plugin://script.module.horus?action=play&id=dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,LaLiga Hypermotion 9  0fd1
 plugin://script.module.horus?action=play&id=0fd11e74d20919c25d2c5d96ba6f7fc7532394c1
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,LaLiga Hypermotion 10  6292
@@ -195,14 +221,8 @@ plugin://script.module.horus?action=play&id=7d70685696722c2b1b48a5ae1a7f92c445d9
 plugin://script.module.horus?action=play&id=dab7cab5d6d177df36c3b333ca363c2266d91a03
 #EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" ,Eurosport4k  c525
 plugin://script.module.horus?action=play&id=c525471499b936decc037ea86e0f8125ebf78c28
-#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" ,Eurosport 1 1080  5e4c
-plugin://script.module.horus?action=play&id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg" ,Eurosport 2 1080  c373
-plugin://script.module.horus?action=play&id=c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 group-title="Otros deportes" tvg-id="GOL PLAY" tvg-logo="https://i.ibb.co/5hYsXDR/Gol.jpg" ,GOL TV 1080  d462
 plugin://script.module.horus?action=play&id=d4627f7b6b237a8556819445b3283d866caceca2
-#EXTINF:-1 group-title="Otros deportes" tvg-id="Teledeporte" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TDEP" ,tdp 1080  e239
-plugin://script.module.horus?action=play&id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 #EXTINF:-1 group-title="Otros deportes" tvg-id="I217.33395.zap2it.com" tvg-logo="https://telegra.ph/file/8807aa3ba9ca7f2232492.jpg" ,Tennis Channel  9292
 plugin://script.module.horus?action=play&id=9292d3b32432efb56db4014933cbdec0a7cf2e36
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Sport TV1 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a450.png" ,Sport TV 1 1080  ce23
